@@ -1,0 +1,90 @@
+.cohete{
+    width: 40px;
+    height: 40px;
+}
+.menu li{
+    list-style: none;
+    margin: 5px;
+}
+.barra{
+    display: flex;
+    justify-content: space-between;
+    margin: 10px;
+}
+.barra ul{
+    display: flex;
+    
+}
+.foto{
+    width: 200px;
+    height: 250px;
+    border-radius: 100%;
+}
+.intro{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 50px;
+}
+.programacion{
+    width: 500px;
+}
+.yo{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 50px;
+    color: white;
+    background-color: rgb(32, 32, 165);
+}
+.icono{
+    width: 70px;
+}
+.card{
+    display: flex;
+    align-items: center;
+}
+.card-body{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+.experiencia{
+    margin: 20px;
+}
+.imgproyecto{
+    width: 100%;
+    height: 180px;
+    display: flex;
+
+}
+.proyectos{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+}
+.Cproyecto{
+    display: flex;
+    margin: 15px;
+}
+.btn{
+    margin: 15px;
+}
+.articulos{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.carrusel{
+    width: 600px;
+}
+.testimonios{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+}
+h2{
+    font-family:'Courier New', Courier, monospace
+}
